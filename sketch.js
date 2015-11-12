@@ -34,11 +34,11 @@ if (temp_y1>temp_y2 && temp_x1>temp_x4) { //how to combine conditions
 	stroke(130, 100, 100, 100);//green
 }
 //is left leg close to the half width
-if (temp_x1 > width/4 temp_x4 > width/4){ 
+// if (temp_x1 > width/4 temp_x4 > width/4){ 
 
-	stroke(240, 100,100, 100);//blue
+// 	stroke(240, 100,100, 100);//blue
 
-}
+
 
 
 strokeWeight(5);
@@ -54,4 +54,3 @@ endShape(CLOSE);
 
 
 }
-console.log(temp_x4);
