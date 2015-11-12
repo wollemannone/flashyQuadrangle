@@ -1,5 +1,4 @@
 
-
 var temp_x1 = 0;
 var temp_y1 = 0;
 var temp_x2 = 0;
@@ -39,7 +38,7 @@ if (temp_y1>temp_y2 && temp_x1>temp_x4) { //how to combine conditions
 
 // 	stroke(240, 100,100, 100);//blue
 
-}
+
 
 
 strokeWeight(5);
@@ -55,4 +54,3 @@ endShape(CLOSE);
 
 
 }
-console.log(temp_x4);
