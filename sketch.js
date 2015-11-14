@@ -12,6 +12,7 @@ function setup(){
 
 
 createCanvas(800,600);
+canvas.parent("container");
 background(0);
 
 temp_x1 = random(0, width/2);
