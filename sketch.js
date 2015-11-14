@@ -14,12 +14,11 @@ var h = height;
 
 function setup(){
 
+ var canvas = createCanvas(800,600);
 canvas.parent("container");
 
 frameRate(6);
-
 colorMode(HSB,360,100,100,100);
-createCanvas(1000,800);
 background(267,90,78);
 
 }
