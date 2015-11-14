@@ -14,9 +14,7 @@ var h = height;
 
 function setup(){
 
- var canvas = createCanvas(800,600);
-canvas.parent("container");
-
+createCanvas(800,600);
 frameRate(6);
 colorMode(HSB,360,100,100,100);
 background(267,90,78);
