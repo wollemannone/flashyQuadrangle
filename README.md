@@ -1,4 +1,4 @@
-# flag Genareator
+# flagGenereator
 
 ## flashy Quadrangles genatrate nationel flags
 
