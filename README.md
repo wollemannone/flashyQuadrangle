@@ -9,8 +9,8 @@
   
   you can adjust the colors by the var 
   
-  col1 _background_
-  col2 _middle quadrangles_
+  - col1 _background_
+  - col2 _middle quadrangles_
   
   col3 _upper quadrangles_
   col4 _downer quadrangles_
