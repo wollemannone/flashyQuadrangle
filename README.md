@@ -12,8 +12,8 @@
   - col1 _background_
   - col2 _middle quadrangles_
   
-  col3 _upper quadrangles_
-  col4 _downer quadrangles_
+  - col3 _upper quadrangles_
+  - col4 _downer quadrangles_
 
 
 see the example for spain on:
