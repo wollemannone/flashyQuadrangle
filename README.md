@@ -15,8 +15,8 @@
   - col3 _upper quadrangles_
   - col4 _downer quadrangles_
 
-http://wollemannone.github.io/flashyQuadrangle/
-see the example for spain on:
+
+see the example for spain on:http://wollemannone.github.io/flashyQuadrangle/
 
 
 
