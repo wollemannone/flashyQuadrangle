@@ -15,9 +15,14 @@
   - col3 _upper quadrangles_
   - col4 _downer quadrangles_
 
-
+http://wollemannone.github.io/flashyQuadrangle/
 see the example for spain on:
 
-http://wollemannone.github.io/flashyQuadrangle/
+
 
 ![](https://github.com/wollemannone/flashyQuadrangle/blob/gh-pages/hungary.JPG)
+![](https://github.com/wollemannone/flashyQuadrangle/blob/gh-pages/spain_01.JPG)
+![](https://github.com/wollemannone/flashyQuadrangle/blob/gh-pages/italy_01.JPG)
+![](https://github.com/wollemannone/flashyQuadrangle/blob/gh-pages/germany.JPG)
+![](https://github.com/wollemannone/flashyQuadrangle/blob/gh-pages/portugal_01t.JPG)
+![](https://github.com/wollemannone/flashyQuadrangle/blob/gh-pages/Argentina_01.JPG)
